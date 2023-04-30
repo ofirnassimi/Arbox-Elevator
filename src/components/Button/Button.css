@@ -1,0 +1,29 @@
+.button-call {
+    /* margin: 12px 20px; */
+    width: 70px;
+    height: 30px;
+    background-color: rgb(91, 205, 136);
+    border-color: rgb(91, 205, 136);
+    color: white;
+    border-radius: 4px;
+}
+
+.button-waiting {
+    /* margin: 12px 20px; */
+    width: 70px;
+    height: 30px;
+    background-color: rgb(237, 72, 77);
+    border-color: rgb(237, 72, 77);
+    color: white;
+    border-radius: 4px;
+}
+
+.button-arrived {
+    /* margin: 12px 20px; */
+    width: 70px;
+    height: 30px;
+    background-color: transparent;
+    border-color: rgb(91, 205, 136);
+    color: rgb(91, 205, 136);
+    border-radius: 4px;
+}

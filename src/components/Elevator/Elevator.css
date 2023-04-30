@@ -1,0 +1,23 @@
+.elevator {
+    position: relative;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 35px;
+}
+
+.icon-free {
+    stroke: black;
+}
+
+.icon-moving {
+    stroke: rgb(237, 72, 77);
+}
+
+.icon-arrived {
+    stroke: rgb(91, 205, 136);
+}

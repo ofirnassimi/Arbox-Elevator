@@ -1,0 +1,33 @@
+.elevator-system {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.elevators-container {
+    display: flex;
+    flex-direction: row;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 3px gray;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 30px;
+}
+
+.floors-names {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 30px;
+    height: 513px;
+}
+
+.floor-name {
+    margin-left: auto;
+    margin-right: 10px;
+}
